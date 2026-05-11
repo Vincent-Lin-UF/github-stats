@@ -1,6 +1,6 @@
 # Languages Breakdown (By File Size)
 
-## JavaScript — 28.15% (2,200,553 bytes)
+## JavaScript — 27.36% (2,201,187 bytes)
 
 - **imvinlin/stockMarketSimulator**: 1,130,796 bytes (51.4%)
 - **imvinlin/templatePortWeb**: 747,624 bytes (34.0%)
@@ -25,6 +25,7 @@
 - **imvinlin/sase24GuessWho**: 924 bytes (0.0%)
 - **imvinlin/Blind-Brush**: 654 bytes (0.0%)
 - **imvinlin/restaurant**: 654 bytes (0.0%)
+- **imvinlin/nian**: 634 bytes (0.0%)
 - **UF-SASE-Web-Team/UF-SASEHacks-Website**: 605 bytes (0.0%)
 - **imvinlin/UF-SASEHacks-Website**: 605 bytes (0.0%)
 - **imvinlin/imvinlin.github.io**: 604 bytes (0.0%)
@@ -38,7 +39,7 @@
 - **imvinlin/jd-tailor**: 91 bytes (0.0%)
 - **imvinlin/gator-registr**: 81 bytes (0.0%)
 
-## Python — 26.35% (2,059,709 bytes)
+## Python — 25.60% (2,059,709 bytes)
 
 - **sophieqli/VNSN-Project**: 1,048,978 bytes (50.9%)
 - **imvinlin/swarmTrading**: 234,926 bytes (11.4%)
@@ -81,7 +82,28 @@
 - **imvinlin/project_euler**: 389 bytes (0.0%)
 - **imvinlin/nanoTorch**: 352 bytes (0.0%)
 
-## C++ — 19.84% (1,551,131 bytes)
+## TypeScript — 20.67% (1,663,266 bytes)
+
+- **imvinlin/sylven-ai**: 406,897 bytes (24.5%)
+- **UF-SASE-Web-Team/UF-SASEHacks-Website**: 316,501 bytes (19.0%)
+- **imvinlin/nian**: 226,775 bytes (13.6%)
+- **imvinlin/UF-SASEHacks-Website**: 224,431 bytes (13.5%)
+- **UF-SASE-Web-Team/AI-Advisor**: 95,023 bytes (5.7%)
+- **imvinlin/davaplopers**: 66,992 bytes (4.0%)
+- **imvinlin/vincentlin-info**: 64,107 bytes (3.9%)
+- **UF-SASE-Web-Team/Task-Balance-App**: 58,727 bytes (3.5%)
+- **imvinlin/Gator-Advisor**: 47,442 bytes (2.9%)
+- **imvinlin/imvinlin.github.io**: 46,814 bytes (2.8%)
+- **sanjaytaylor2012/ShellHacks_Frontend**: 44,830 bytes (2.7%)
+- **imvinlin/gator-registr**: 27,421 bytes (1.6%)
+- **imvinlin/restaurant**: 22,310 bytes (1.3%)
+- **imvinlin/saseBoardGuessWho**: 6,826 bytes (0.4%)
+- **imvinlin/stockMarketSimulator**: 6,023 bytes (0.4%)
+- **imvinlin/Blind-Brush**: 1,004 bytes (0.1%)
+- **imvinlin/jd-tailor**: 893 bytes (0.1%)
+- **imvinlin/youtube-clone**: 250 bytes (0.0%)
+
+## C++ — 19.28% (1,551,131 bytes)
 
 - **imvinlin/dsaProjects**: 1,359,936 bytes (87.7%)
 - **imvinlin/compProg**: 65,036 bytes (4.2%)
@@ -97,36 +119,16 @@
 - **imvinlin/pixiu**: 1,975 bytes (0.1%)
 - **imvinlin/comp-prog**: 1,048 bytes (0.1%)
 
-## TypeScript — 18.38% (1,436,491 bytes)
-
-- **imvinlin/sylven-ai**: 406,897 bytes (28.3%)
-- **UF-SASE-Web-Team/UF-SASEHacks-Website**: 316,501 bytes (22.0%)
-- **imvinlin/UF-SASEHacks-Website**: 224,431 bytes (15.6%)
-- **UF-SASE-Web-Team/AI-Advisor**: 95,023 bytes (6.6%)
-- **imvinlin/davaplopers**: 66,992 bytes (4.7%)
-- **imvinlin/vincentlin-info**: 64,107 bytes (4.5%)
-- **UF-SASE-Web-Team/Task-Balance-App**: 58,727 bytes (4.1%)
-- **imvinlin/Gator-Advisor**: 47,442 bytes (3.3%)
-- **imvinlin/imvinlin.github.io**: 46,814 bytes (3.3%)
-- **sanjaytaylor2012/ShellHacks_Frontend**: 44,830 bytes (3.1%)
-- **imvinlin/gator-registr**: 27,421 bytes (1.9%)
-- **imvinlin/restaurant**: 22,310 bytes (1.6%)
-- **imvinlin/saseBoardGuessWho**: 6,826 bytes (0.5%)
-- **imvinlin/stockMarketSimulator**: 6,023 bytes (0.4%)
-- **imvinlin/Blind-Brush**: 1,004 bytes (0.1%)
-- **imvinlin/jd-tailor**: 893 bytes (0.1%)
-- **imvinlin/youtube-clone**: 250 bytes (0.0%)
-
-## Java — 3.68% (287,784 bytes)
+## Java — 3.58% (287,784 bytes)
 
 - **imvinlin/cop4020**: 250,642 bytes (87.1%)
 - **imvinlin/storage-systems**: 37,142 bytes (12.9%)
 
-## Kotlin — 1.62% (126,665 bytes)
+## Kotlin — 1.57% (126,665 bytes)
 
 - **imvinlin/atlas**: 126,665 bytes (100.0%)
 
-## Rust — 0.69% (54,200 bytes)
+## Rust — 0.67% (54,200 bytes)
 
 - **imvinlin/ai-native-os**: 51,534 bytes (95.1%)
 - **imvinlin/cerulean**: 916 bytes (1.7%)
@@ -134,7 +136,7 @@
 - **imvinlin/commit-nudge**: 633 bytes (1.2%)
 - **imvinlin/pixiu**: 433 bytes (0.8%)
 
-## Go — 0.54% (42,028 bytes)
+## Go — 0.52% (42,028 bytes)
 
 - **UF-SASE-Web-Team/AI-Advisor**: 18,550 bytes (44.1%)
 - **imvinlin/Gator-Advisor**: 15,123 bytes (36.0%)
@@ -145,11 +147,11 @@
 - **imvinlin/tcp2http-golang**: 794 bytes (1.9%)
 - **imvinlin/lineage-simple-storage**: 74 bytes (0.2%)
 
-## PHP — 0.39% (30,403 bytes)
+## PHP — 0.38% (30,403 bytes)
 
 - **imvinlin/cis4930**: 30,403 bytes (100.0%)
 
-## Lua — 0.24% (18,675 bytes)
+## Lua — 0.23% (18,675 bytes)
 
 - **imvinlin/vicctui**: 18,675 bytes (100.0%)
 
