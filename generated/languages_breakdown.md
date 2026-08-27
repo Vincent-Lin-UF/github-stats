@@ -1,6 +1,29 @@
 # Languages Breakdown (By File Size)
 
-## Python — 25.32% (2,329,320 bytes)
+## TypeScript — 36.56% (4,262,682 bytes)
+
+- **imvinlin/last-semester-learning**: 2,460,470 bytes (57.7%)
+- **imvinlin/sylven-ai**: 406,897 bytes (9.5%)
+- **UF-SASE-Web-Team/UF-SASEHacks-Website**: 316,501 bytes (7.4%)
+- **imvinlin/nian**: 226,775 bytes (5.3%)
+- **imvinlin/UF-SASEHacks-Website**: 224,431 bytes (5.3%)
+- **imvinlin/rb**: 138,946 bytes (3.3%)
+- **UF-SASE-Web-Team/AI-Advisor**: 95,023 bytes (2.2%)
+- **imvinlin/davaplopers**: 66,992 bytes (1.6%)
+- **imvinlin/vincentlin-info**: 64,107 bytes (1.5%)
+- **UF-SASE-Web-Team/Task-Balance-App**: 58,727 bytes (1.4%)
+- **imvinlin/Gator-Advisor**: 47,442 bytes (1.1%)
+- **imvinlin/imvinlin.github.io**: 46,814 bytes (1.1%)
+- **sanjaytaylor2012/ShellHacks_Frontend**: 44,830 bytes (1.1%)
+- **imvinlin/gator-registr**: 27,421 bytes (0.6%)
+- **imvinlin/restaurant**: 22,310 bytes (0.5%)
+- **imvinlin/saseBoardGuessWho**: 6,826 bytes (0.2%)
+- **imvinlin/stockMarketSimulator**: 6,023 bytes (0.1%)
+- **imvinlin/Blind-Brush**: 1,004 bytes (0.0%)
+- **imvinlin/jd-tailor**: 893 bytes (0.0%)
+- **imvinlin/youtube-clone**: 250 bytes (0.0%)
+
+## Python — 19.98% (2,329,320 bytes)
 
 - **sophieqli/VNSN-Project**: 1,048,978 bytes (45.0%)
 - **imvinlin/swarmTrading**: 234,926 bytes (10.1%)
@@ -46,7 +69,7 @@
 - **imvinlin/project_euler**: 389 bytes (0.0%)
 - **imvinlin/nanoTorch**: 352 bytes (0.0%)
 
-## JavaScript — 24.18% (2,224,833 bytes)
+## JavaScript — 19.08% (2,224,833 bytes)
 
 - **imvinlin/stockMarketSimulator**: 1,130,796 bytes (50.8%)
 - **imvinlin/templatePortWeb**: 747,624 bytes (33.6%)
@@ -86,29 +109,7 @@
 - **imvinlin/jd-tailor**: 91 bytes (0.0%)
 - **imvinlin/gator-registr**: 81 bytes (0.0%)
 
-## TypeScript — 19.59% (1,802,212 bytes)
-
-- **imvinlin/sylven-ai**: 406,897 bytes (22.6%)
-- **UF-SASE-Web-Team/UF-SASEHacks-Website**: 316,501 bytes (17.6%)
-- **imvinlin/nian**: 226,775 bytes (12.6%)
-- **imvinlin/UF-SASEHacks-Website**: 224,431 bytes (12.5%)
-- **imvinlin/rb**: 138,946 bytes (7.7%)
-- **UF-SASE-Web-Team/AI-Advisor**: 95,023 bytes (5.3%)
-- **imvinlin/davaplopers**: 66,992 bytes (3.7%)
-- **imvinlin/vincentlin-info**: 64,107 bytes (3.6%)
-- **UF-SASE-Web-Team/Task-Balance-App**: 58,727 bytes (3.3%)
-- **imvinlin/Gator-Advisor**: 47,442 bytes (2.6%)
-- **imvinlin/imvinlin.github.io**: 46,814 bytes (2.6%)
-- **sanjaytaylor2012/ShellHacks_Frontend**: 44,830 bytes (2.5%)
-- **imvinlin/gator-registr**: 27,421 bytes (1.5%)
-- **imvinlin/restaurant**: 22,310 bytes (1.2%)
-- **imvinlin/saseBoardGuessWho**: 6,826 bytes (0.4%)
-- **imvinlin/stockMarketSimulator**: 6,023 bytes (0.3%)
-- **imvinlin/Blind-Brush**: 1,004 bytes (0.1%)
-- **imvinlin/jd-tailor**: 893 bytes (0.0%)
-- **imvinlin/youtube-clone**: 250 bytes (0.0%)
-
-## C++ — 16.86% (1,551,131 bytes)
+## C++ — 13.30% (1,551,131 bytes)
 
 - **imvinlin/dsaProjects**: 1,359,936 bytes (87.7%)
 - **imvinlin/compProg**: 65,036 bytes (4.2%)
@@ -124,7 +125,7 @@
 - **imvinlin/pixiu**: 1,975 bytes (0.1%)
 - **imvinlin/comp-prog**: 1,048 bytes (0.1%)
 
-## Go — 8.32% (765,088 bytes)
+## Go — 6.56% (765,088 bytes)
 
 - **imvinlin/marina**: 606,566 bytes (79.3%)
 - **imvinlin/lineage-cloud**: 108,311 bytes (14.2%)
@@ -138,16 +139,16 @@
 - **imvinlin/tcp2http-golang**: 794 bytes (0.1%)
 - **imvinlin/lineage-simple-storage**: 74 bytes (0.0%)
 
-## Java — 3.13% (287,784 bytes)
+## Java — 2.47% (287,784 bytes)
 
 - **imvinlin/cop4020**: 250,642 bytes (87.1%)
 - **imvinlin/storage-systems**: 37,142 bytes (12.9%)
 
-## Kotlin — 1.38% (126,665 bytes)
+## Kotlin — 1.09% (126,665 bytes)
 
 - **imvinlin/atlas**: 126,665 bytes (100.0%)
 
-## Rust — 0.59% (54,200 bytes)
+## Rust — 0.46% (54,200 bytes)
 
 - **imvinlin/ai-native-os**: 51,534 bytes (95.1%)
 - **imvinlin/cerulean**: 916 bytes (1.7%)
@@ -155,25 +156,25 @@
 - **imvinlin/commit-nudge**: 633 bytes (1.2%)
 - **imvinlin/pixiu**: 433 bytes (0.8%)
 
-## PHP — 0.33% (30,403 bytes)
+## PHP — 0.26% (30,403 bytes)
 
 - **imvinlin/cis4930**: 30,403 bytes (100.0%)
 
-## Lua — 0.20% (18,675 bytes)
+## Lua — 0.16% (18,675 bytes)
 
 - **imvinlin/vicctui**: 18,675 bytes (100.0%)
 
-## C# — 0.04% (3,221 bytes)
+## C# — 0.03% (3,221 bytes)
 
 - **imvinlin/esep-webhooks**: 3,221 bytes (100.0%)
 
-## Haskell — 0.03% (2,907 bytes)
+## Haskell — 0.02% (2,907 bytes)
 
 - **imvinlin/lambdaLang**: 1,619 bytes (55.7%)
 - **imvinlin/learnHaskell**: 691 bytes (23.8%)
 - **imvinlin/playground**: 597 bytes (20.5%)
 
-## C — 0.03% (2,840 bytes)
+## C — 0.02% (2,840 bytes)
 
 - **imvinlin/os-from-scratch**: 2,617 bytes (92.1%)
 - **imvinlin/pixiu**: 223 bytes (7.9%)
