@@ -1,6 +1,6 @@
 # Languages Breakdown (By File Size)
 
-## TypeScript — 36.56% (4,262,682 bytes)
+## TypeScript — 36.55% (4,262,682 bytes)
 
 - **imvinlin/last-semester-learning**: 2,460,470 bytes (57.7%)
 - **imvinlin/sylven-ai**: 406,897 bytes (9.5%)
@@ -23,7 +23,7 @@
 - **imvinlin/jd-tailor**: 893 bytes (0.0%)
 - **imvinlin/youtube-clone**: 250 bytes (0.0%)
 
-## Python — 19.98% (2,329,320 bytes)
+## Python — 19.97% (2,329,320 bytes)
 
 - **sophieqli/VNSN-Project**: 1,048,978 bytes (45.0%)
 - **imvinlin/swarmTrading**: 234,926 bytes (10.1%)
@@ -109,11 +109,11 @@
 - **imvinlin/jd-tailor**: 91 bytes (0.0%)
 - **imvinlin/gator-registr**: 81 bytes (0.0%)
 
-## C++ — 13.30% (1,551,131 bytes)
+## C++ — 13.31% (1,552,031 bytes)
 
-- **imvinlin/dsaProjects**: 1,359,936 bytes (87.7%)
+- **imvinlin/dsaProjects**: 1,359,936 bytes (87.6%)
 - **imvinlin/compProg**: 65,036 bytes (4.2%)
-- **imvinlin/wad**: 59,746 bytes (3.9%)
+- **imvinlin/wad**: 59,746 bytes (3.8%)
 - **vinc3ntl1n/torrent**: 39,508 bytes (2.5%)
 - **imvinlin/codeforces**: 4,615 bytes (0.3%)
 - **imvinlin/playground**: 4,184 bytes (0.3%)
@@ -124,6 +124,7 @@
 - **imvinlin/marketdata-pipeline**: 2,698 bytes (0.2%)
 - **imvinlin/pixiu**: 1,975 bytes (0.1%)
 - **imvinlin/comp-prog**: 1,048 bytes (0.1%)
+- **imvinlin/gpu-computing**: 900 bytes (0.1%)
 
 ## Go — 6.56% (765,088 bytes)
 
@@ -182,3 +183,7 @@
 ## Assembly — 0.01% (953 bytes)
 
 - **imvinlin/os-from-scratch**: 953 bytes (100.0%)
+
+## Cuda — 0.01% (617 bytes)
+
+- **imvinlin/gpu-computing**: 617 bytes (100.0%)
